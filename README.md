@@ -1,5 +1,5 @@
 # StringProcessingAlgorithm
-Dynamic Programming-ish
+WIP
 
 
 Given a dictionary and a string with no whitespace, this program can determine whether or not spaces can be inserted into the string
