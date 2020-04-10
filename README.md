@@ -1,0 +1,2 @@
+# StringProcessingAlgorithm
+Dynamic Programming-ish
